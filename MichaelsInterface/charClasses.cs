@@ -8,13 +8,14 @@ namespace MichaelsInterface
 {
     internal class charClasses : IPlayClasses
     {
-        public int Health { get; set; }
+        public int Health { get; protected set; }
         public string Name { get; set; }
-        public int Level { get; set; }
+        public int Level { get; protected set; }
 
         public void IncreaseLevel()
         {
             Level += 1;
+            Health += 5;
         }
     }
 }

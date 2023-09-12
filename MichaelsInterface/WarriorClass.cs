@@ -12,8 +12,8 @@ namespace MichaelsInterface
         {
             this.Name = name;
             this.Level = 1;
+            this.Health = 15;
         }
-
 
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\13134\source\repos\MichaelsInterface\MichaelsInterface\bin\Debug\MichaelsInterface.exe.config
+C:\Users\13134\source\repos\MichaelsInterface\MichaelsInterface\bin\Debug\MichaelsInterface.exe
+C:\Users\13134\source\repos\MichaelsInterface\MichaelsInterface\bin\Debug\MichaelsInterface.pdb
+C:\Users\13134\source\repos\MichaelsInterface\MichaelsInterface\obj\Debug\MichaelsInterface.csproj.AssemblyReference.cache
+C:\Users\13134\source\repos\MichaelsInterface\MichaelsInterface\obj\Debug\MichaelsInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\13134\source\repos\MichaelsInterface\MichaelsInterface\obj\Debug\MichaelsInterface.csproj.CoreCompileInputs.cache
+C:\Users\13134\source\repos\MichaelsInterface\MichaelsInterface\obj\Debug\MichaelsInterface.exe
+C:\Users\13134\source\repos\MichaelsInterface\MichaelsInterface\obj\Debug\MichaelsInterface.pdb
